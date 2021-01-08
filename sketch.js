@@ -112,7 +112,7 @@ function draw() {
   drawSprites();
 }
 
-function mouseDragged()
+function mouseClicked()
 {
  
 if(gameState !== "end2"){
